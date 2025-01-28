@@ -1,0 +1,91 @@
+{
+    "timestamp": "2024-11-28 17:31:18",
+    "scan_data": {
+        "132.148.130.26": {
+            "hostname": "vnrvjiet.ac.in",
+            "status": "up",
+            "open_ports": [
+                {
+                    "port": 21,
+                    "service": "ftp",
+                    "state": "open"
+                },
+                {
+                    "port": 22,
+                    "service": "ssh",
+                    "state": "open"
+                },
+                {
+                    "port": 25,
+                    "service": "smtp",
+                    "state": "open"
+                },
+                {
+                    "port": 53,
+                    "service": "domain",
+                    "state": "open"
+                },
+                {
+                    "port": 79,
+                    "service": "finger",
+                    "state": "filtered"
+                },
+                {
+                    "port": 80,
+                    "service": "http",
+                    "state": "open"
+                },
+                {
+                    "port": 110,
+                    "service": "pop3",
+                    "state": "open"
+                },
+                {
+                    "port": 143,
+                    "service": "imap",
+                    "state": "open"
+                },
+                {
+                    "port": 443,
+                    "service": "https",
+                    "state": "open"
+                },
+                {
+                    "port": 465,
+                    "service": "smtps",
+                    "state": "open"
+                },
+                {
+                    "port": 587,
+                    "service": "submission",
+                    "state": "open"
+                },
+                {
+                    "port": 631,
+                    "service": "ipp",
+                    "state": "filtered"
+                },
+                {
+                    "port": 993,
+                    "service": "imaps",
+                    "state": "open"
+                },
+                {
+                    "port": 995,
+                    "service": "pop3s",
+                    "state": "open"
+                },
+                {
+                    "port": 1723,
+                    "service": "pptp",
+                    "state": "filtered"
+                },
+                {
+                    "port": 3306,
+                    "service": "mysql",
+                    "state": "open"
+                }
+            ]
+        }
+    }
+}
