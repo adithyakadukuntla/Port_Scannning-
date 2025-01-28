@@ -22,3 +22,7 @@ This project is a Flask-based web application that allows users to perform port 
    ```bash
    git clone https://github.com/your-username/nmap-port-scanner.git
    cd nmap-port-scanner
+2. Install the required dependencies
+   ```bash
+   pip install -r requirements.txt
+   
